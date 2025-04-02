@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      listra banner_0: 6847422587673717258
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
