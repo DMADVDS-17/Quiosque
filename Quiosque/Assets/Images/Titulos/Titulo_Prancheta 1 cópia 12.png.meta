@@ -1,10 +1,22 @@
 fileFormatVersion: 2
-guid: c97a6d4eb394ad24da60dedd508f91bd
+guid: 0a0b7ebcd722f7746a5c2ea80902bd7e
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -2019156463891135753
-    second: Fundo_0
+      213: -5990429938490765642
+    second: "Titulo_Prancheta 1 c\xF3pia 12_0"
+  - first:
+      213: -7513523836660351521
+    second: "Titulo_Prancheta 1 c\xF3pia 12_1"
+  - first:
+      213: -6122222995039755452
+    second: "Titulo_Prancheta 1 c\xF3pia 12_2"
+  - first:
+      213: 6060555905302252750
+    second: "Titulo_Prancheta 1 c\xF3pia 12_3"
+  - first:
+      213: 2272220372629150015
+    second: "Titulo_Prancheta 1 c\xF3pia 12_4"
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -46,7 +58,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 2
+  spriteMode: 1
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -109,82 +121,17 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 4
-    buildTarget: iOS
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 4
-    buildTarget: Android
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 4
-    buildTarget: VisionOS
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 4
-    buildTarget: tvOS
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 4
-    buildTarget: WindowsStoreApps
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Fundo_0
+      name: "Titulo_Prancheta 1 c\xF3pia 12_0"
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 1920
-        height: 1080
+        x: 456
+        y: 1195
+        width: 788
+        height: 240
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -193,8 +140,96 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 7f2c5dfd4e38af3e0800000000000000
-      internalID: -2019156463891135753
+      spriteID: 6be8468a5b7bddca0800000000000000
+      internalID: -5990429938490765642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Titulo_Prancheta 1 c\xF3pia 12_1"
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 1195
+        width: 330
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fddfd6001e99ab790800000000000000
+      internalID: -7513523836660351521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Titulo_Prancheta 1 c\xF3pia 12_2"
+      rect:
+        serializedVersion: 2
+        x: 1661
+        y: 1195
+        width: 763
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4436de87f9e790ba0800000000000000
+      internalID: -6122222995039755452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Titulo_Prancheta 1 c\xF3pia 12_3"
+      rect:
+        serializedVersion: 2
+        x: 2466
+        y: 1196
+        width: 175
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecccfe45c7b6b1450800000000000000
+      internalID: 6060555905302252750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Titulo_Prancheta 1 c\xF3pia 12_4"
+      rect:
+        serializedVersion: 2
+        x: 2668
+        y: 1131
+        width: 1421
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3957f1e36c888f10800000000000000
+      internalID: 2272220372629150015
       vertices: []
       indices: 
       edges: []
@@ -203,7 +238,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 5e97eb03825dee720800000000000000
     internalID: 0
     vertices: []
     indices: 
@@ -213,7 +248,11 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Fundo_0: -2019156463891135753
+      "Titulo_Prancheta 1 c\xF3pia 12_0": -5990429938490765642
+      "Titulo_Prancheta 1 c\xF3pia 12_1": -7513523836660351521
+      "Titulo_Prancheta 1 c\xF3pia 12_2": -6122222995039755452
+      "Titulo_Prancheta 1 c\xF3pia 12_3": 6060555905302252750
+      "Titulo_Prancheta 1 c\xF3pia 12_4": 2272220372629150015
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
