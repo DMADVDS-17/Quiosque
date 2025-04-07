@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 8a8330de000eca54285babfb36f64c1b
+guid: f2adab2dde723e440b0a36d115ecbca4
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -4813113313470912868
-    second: Pasteis de nata_0
+      213: 73075142604400546
+    second: mapa_Prancheta 1_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,13 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Pasteis de nata_0
+      name: mapa_Prancheta 1_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 2048
-        height: 1365
+        x: 1265
+        y: 875
+        width: 795
+        height: 732
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c96ecde31f2643db0800000000000000
-      internalID: -4813113313470912868
+      spriteID: 2a7a8dc747d930100800000000000000
+      internalID: 73075142604400546
       vertices: []
       indices: 
       edges: []
@@ -147,8 +147,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      Pasteis de nata_0: -4813113313470912868
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

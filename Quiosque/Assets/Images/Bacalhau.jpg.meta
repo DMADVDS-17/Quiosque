@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Bacalhau_0: -8337399643843969950
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

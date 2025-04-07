@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Cataplana_0: 6672132092481356083
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

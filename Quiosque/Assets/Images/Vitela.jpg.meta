@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Vitela_0: -779823006413505867
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

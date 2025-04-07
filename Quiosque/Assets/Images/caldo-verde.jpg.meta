@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      caldo-verde_0: 5372090652816660963
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

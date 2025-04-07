@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      bacalhau-a-braga-1_0: 4508814979830196854
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
