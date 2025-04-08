@@ -9,11 +9,19 @@ EditorBuildSettings:
     path: Assets/Scenes/Banner.unity
     guid: 8c9cfa26abfee488c85f1582747f6a02
   - enabled: 1
+<<<<<<< HEAD
+    path: Assets/Scenes/BacalhauABraga.unity
+    guid: 4f17a0acaba44a34f9e6f34f5a1f3122
+  - enabled: 1
+    path: Assets/Scenes/Norte.unity
+    guid: 136f1949fa75a224c99b409a14225947
+=======
     path: Assets/Scenes/Norte.unity
     guid: 136f1949fa75a224c99b409a14225947
   - enabled: 1
     path: Assets/Scenes/Menu.unity
     guid: cd5c3e3d80d2b61409203367cf1fdd50
+>>>>>>> a5e0fd345432af00e40bed028888d1b85de292c2
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0
