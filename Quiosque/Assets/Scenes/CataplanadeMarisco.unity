@@ -763,7 +763,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 3242475655878625561, guid: 326391f429b47d04683cf6cc796807ca, type: 3}
+  m_Sprite: {fileID: 6672132092481356083, guid: 4e1a631aefda5ca4a87b4499115c3d8b, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -1516,7 +1516,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: -4194833883790715442, guid: 90ef969edf67d25498456719d4a3c0ec, type: 3}
+  m_Sprite: {fileID: 420746510071563662, guid: 278bac6eaaff6bd4d9a42f306e923a84, type: 3}
   m_Type: 0
   m_PreserveAspect: 1
   m_FillCenter: 1
@@ -1727,7 +1727,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Francesinha
+  m_text: Cataplana de Marisco
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: aeaf870e85fa8cb498289d0a18793783, type: 2}
   m_sharedMaterial: {fileID: -7210812910112355833, guid: aeaf870e85fa8cb498289d0a18793783, type: 2}
@@ -1754,8 +1754,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 180
-  m_fontSizeBase: 180
+  m_fontSize: 170
+  m_fontSizeBase: 170
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -2017,9 +2017,9 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "Ingredientes \n6 fatias de p\xE3o de forma, 8 fatias de queijo, 2 bifes
-    de vaca pequenos\n2 salsichas frescas, 2 lingui\xE7as, 2 fatias de fiambre, sal
-    e pimenta q.b."
+  m_text: "Ingredientes \n800g de Am\xEAijoas, 800g de Camar\xF5es, 2 Cebolas, 2
+    Tomates, 1 Pimento vermelho\n1 Pimento verde, 100ml Vinho branco, 4 colheres
+    de sopa de Azeite\n1 Ramo de coentros, Sal e pimenta q.b.   "
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2100000, guid: e73a58f6e2794ae7b1b7e50b7fb811b0, type: 2}
@@ -2046,8 +2046,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 48
-  m_fontSizeBase: 48
+  m_fontSize: 45
+  m_fontSizeBase: 45
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -2486,7 +2486,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: -3670425576606445893, guid: 60bc264bdef978b4084aef38246f7405, type: 3}
+  m_Sprite: {fileID: -6010514019075736544, guid: ca8b68d3c25c71d449a311f8da88ec08, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -2552,7 +2552,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bd43aaaa4fbc2e0489927105614cfb25, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  sceneName: Norte
+  sceneName: sul
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
