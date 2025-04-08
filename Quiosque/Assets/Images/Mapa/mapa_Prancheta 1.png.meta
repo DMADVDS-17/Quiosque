@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      mapa_Prancheta 1_0: 73075142604400546
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
