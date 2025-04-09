@@ -29,6 +29,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/CarnedePorco.unity
     guid: bf473bc2fbc8fdd42a97eebda1e130b4
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: cd5c3e3d80d2b61409203367cf1fdd50
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0
