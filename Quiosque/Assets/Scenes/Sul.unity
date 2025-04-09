@@ -1341,6 +1341,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   sceneName: Menu
+<<<<<<< HEAD
 --- !u!1 &1416216620
 GameObject:
   m_ObjectHideFlags: 0
@@ -1416,6 +1417,8 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1416216620}
   m_CullTransparentMesh: 1
+=======
+>>>>>>> 8c1675175f3346e29e60d7d1257a30827abca973
 --- !u!1 &1478503457
 GameObject:
   m_ObjectHideFlags: 0
@@ -1532,7 +1535,11 @@ MonoBehaviour:
       m_Calls: []
   m_Sprite: {fileID: 3820972498011109350, guid: a4ca0fd32e6078244a36961b8975bd29, type: 3}
   m_Type: 0
+<<<<<<< HEAD
   m_PreserveAspect: 1
+=======
+  m_PreserveAspect: 0
+>>>>>>> 8c1675175f3346e29e60d7d1257a30827abca973
   m_FillCenter: 1
   m_FillMethod: 4
   m_FillAmount: 1
