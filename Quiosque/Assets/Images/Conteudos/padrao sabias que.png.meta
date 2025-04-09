@@ -1,14 +1,10 @@
 fileFormatVersion: 2
-<<<<<<< HEAD
-guid: d0e850bdea72cf041ad3ad876502b4ac
-=======
-guid: 90ef969edf67d25498456719d4a3c0ec
->>>>>>> e4f8d463f988f3e3c440853032c609a2aa06cda2
+guid: ba5d8b5b44109ef429c088063f8a662a
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -4194833883790715442
-    second: francesinhaa_0
+      213: 2207830179695830069
+    second: padrao sabias que_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -117,13 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: francesinhaa_0
+      name: padrao sabias que_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 1013
-        height: 526
+        width: 2159
+        height: 2777
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -132,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ec5d1e0dec4f8c5c0800000000000000
-      internalID: -4194833883790715442
+      spriteID: 5342821d9d9c3ae10800000000000000
+      internalID: 2207830179695830069
       vertices: []
       indices: 
       edges: []
@@ -151,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      padrao sabias que_0: 2207830179695830069
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
