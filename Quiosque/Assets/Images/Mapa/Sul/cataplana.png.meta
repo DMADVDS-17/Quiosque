@@ -1,0 +1,650 @@
+fileFormatVersion: 2
+guid: 23199277bd35c044696a18622751db0c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8706907736930313375
+    second: cataplana_0
+  - first:
+      213: 4579369868735057120
+    second: cataplana_1
+  - first:
+      213: -1329362000746135249
+    second: cataplana_2
+  - first:
+      213: 731063377090408662
+    second: cataplana_3
+  - first:
+      213: 5555540773125335704
+    second: cataplana_4
+  - first:
+      213: 8773229298852727624
+    second: cataplana_5
+  - first:
+      213: 378873100374068004
+    second: cataplana_6
+  - first:
+      213: 3127053839557366734
+    second: cataplana_7
+  - first:
+      213: -6838418627872620427
+    second: cataplana_8
+  - first:
+      213: -6670314864938985064
+    second: cataplana_9
+  - first:
+      213: -3046320199599326281
+    second: cataplana_10
+  - first:
+      213: 7634396733994335551
+    second: cataplana_11
+  - first:
+      213: 3829675726068475930
+    second: cataplana_12
+  - first:
+      213: -6550781473105585247
+    second: cataplana_13
+  - first:
+      213: 8875255367110080726
+    second: cataplana_14
+  - first:
+      213: -6918248519664906426
+    second: cataplana_15
+  - first:
+      213: 297256739669269574
+    second: cataplana_16
+  - first:
+      213: 2219120431568960519
+    second: cataplana_17
+  - first:
+      213: 914237291281085901
+    second: cataplana_18
+  - first:
+      213: -7000920693532791120
+    second: cataplana_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: cataplana_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 971
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f94e4df947625d870800000000000000
+      internalID: 8706907736930313375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cataplana_1
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 11
+        width: 36
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ec841112a03d8f30800000000000000
+      internalID: 4579369868735057120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cataplana_2
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 11
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f21cf97bd482d8de0800000000000000
+      internalID: -1329362000746135249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cataplana_3
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 11
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d075c3a442452a00800000000000000
+      internalID: 731063377090408662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cataplana_4
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 11
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89aa55d06ee391d40800000000000000
+      internalID: 5555540773125335704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cataplana_5
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 2
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84b8a239095c0c970800000000000000
+      internalID: 8773229298852727624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cataplana_6
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 12
+        width: 10
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42b4fb2d317024500800000000000000
+      internalID: 378873100374068004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cataplana_7
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 11
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec3965436e6856b20800000000000000
+      internalID: 3127053839557366734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cataplana_8
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 12
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5700d3c4d7e0911a0800000000000000
+      internalID: -6838418627872620427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cataplana_9
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 11
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 899dd4f98f74e63a0800000000000000
+      internalID: -6670314864938985064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cataplana_10
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 11
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bbf8c62beb49b5d0800000000000000
+      internalID: -3046320199599326281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cataplana_11
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 11
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3d722c7163d2f960800000000000000
+      internalID: 7634396733994335551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cataplana_12
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 12
+        width: 42
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a186f3948cdb52530800000000000000
+      internalID: 3829675726068475930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cataplana_13
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 11
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1abd45e25f2f615a0800000000000000
+      internalID: -6550781473105585247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cataplana_14
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 12
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d8b977bbbd3b2b70800000000000000
+      internalID: 8875255367110080726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cataplana_15
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 42
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64f408530a17dff90800000000000000
+      internalID: -6918248519664906426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cataplana_16
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 11
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64cd3170e61102400800000000000000
+      internalID: 297256739669269574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cataplana_17
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 11
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70cba7d6646ebce10800000000000000
+      internalID: 2219120431568960519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cataplana_18
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 11
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc5793bf8f500bc00800000000000000
+      internalID: 914237291281085901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cataplana_19
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 12
+        width: 10
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0beeb41c8bbb7de90800000000000000
+      internalID: -7000920693532791120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      cataplana_0: 8706907736930313375
+      cataplana_1: 4579369868735057120
+      cataplana_10: -3046320199599326281
+      cataplana_11: 7634396733994335551
+      cataplana_12: 3829675726068475930
+      cataplana_13: -6550781473105585247
+      cataplana_14: 8875255367110080726
+      cataplana_15: -6918248519664906426
+      cataplana_16: 297256739669269574
+      cataplana_17: 2219120431568960519
+      cataplana_18: 914237291281085901
+      cataplana_19: -7000920693532791120
+      cataplana_2: -1329362000746135249
+      cataplana_3: 731063377090408662
+      cataplana_4: 5555540773125335704
+      cataplana_5: 8773229298852727624
+      cataplana_6: 378873100374068004
+      cataplana_7: 3127053839557366734
+      cataplana_8: -6838418627872620427
+      cataplana_9: -6670314864938985064
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
