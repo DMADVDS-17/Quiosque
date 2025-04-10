@@ -557,8 +557,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 6.258, y: 33}
-  m_SizeDelta: {x: 679.345, y: 679.345}
+  m_AnchoredPosition: {x: 31, y: 41}
+  m_SizeDelta: {x: 609.607, y: 609.607}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &853410780
 MonoBehaviour:
@@ -580,7 +580,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 1293029323844933570, guid: 3175ceefc3f4d4c479b5f11448dfd33d, type: 3}
+  m_Sprite: {fileID: -5034009998493480007, guid: 8d007f5485e5ae3419778d1cddad8b92, type: 3}
   m_Type: 0
   m_PreserveAspect: 1
   m_FillCenter: 1
@@ -761,7 +761,7 @@ GameObject:
   - component: {fileID: 2138004479}
   - component: {fileID: 2138004478}
   m_Layer: 5
-  m_Name: Chanfana
+  m_Name: Vitela
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -783,8 +783,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -312.25797, y: 344.96793}
-  m_SizeDelta: {x: 1245.62, y: 256.528}
+  m_AnchoredPosition: {x: -33, y: 449}
+  m_SizeDelta: {x: 1839.43, y: 102.485}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2138004478
 MonoBehaviour:
@@ -806,7 +806,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Chanfana
+  m_text: "Vitela \xE0 moda de laf\xF5es"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: aeaf870e85fa8cb498289d0a18793783, type: 2}
   m_sharedMaterial: {fileID: -7210812910112355833, guid: aeaf870e85fa8cb498289d0a18793783, type: 2}
