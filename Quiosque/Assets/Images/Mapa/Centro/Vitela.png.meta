@@ -1,0 +1,728 @@
+fileFormatVersion: 2
+guid: 517b584c1b6ce094eb5222a593b15ac1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -779823006413505867
+    second: Vitela_0
+  - first:
+      213: -1698552994264739089
+    second: Vitela_1
+  - first:
+      213: 6053792628686642325
+    second: Vitela_2
+  - first:
+      213: 1633443176895943631
+    second: Vitela_3
+  - first:
+      213: 5072758919316879786
+    second: Vitela_4
+  - first:
+      213: -1103342572444166472
+    second: Vitela_5
+  - first:
+      213: -702657466972480558
+    second: Vitela_6
+  - first:
+      213: -7262250587837481313
+    second: Vitela_7
+  - first:
+      213: 2915036799289482758
+    second: Vitela_8
+  - first:
+      213: -4347612287057433856
+    second: Vitela_9
+  - first:
+      213: 5258261832344685748
+    second: Vitela_10
+  - first:
+      213: -6168681554377570280
+    second: Vitela_11
+  - first:
+      213: -5137002741316542439
+    second: Vitela_12
+  - first:
+      213: -8361636992381371818
+    second: Vitela_13
+  - first:
+      213: -3433603982746244566
+    second: Vitela_14
+  - first:
+      213: 156209436731217737
+    second: Vitela_15
+  - first:
+      213: 3728952990321065738
+    second: Vitela_16
+  - first:
+      213: -7013772771491590764
+    second: Vitela_17
+  - first:
+      213: -6157785696955159444
+    second: Vitela_18
+  - first:
+      213: 1982053336224345408
+    second: Vitela_19
+  - first:
+      213: 2496485961598496789
+    second: Vitela_20
+  - first:
+      213: 4544924469007343263
+    second: Vitela_21
+  - first:
+      213: 2946630119090595273
+    second: Vitela_22
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Vitela_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 281
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5babb0b7b138d25f0800000000000000
+      internalID: -779823006413505867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitela_1
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 311
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe29ca01d078d68e0800000000000000
+      internalID: -1698552994264739089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitela_2
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 280
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59cdeb84254630450800000000000000
+      internalID: 6053792628686642325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitela_3
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 280
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc31baf3ae72ba610800000000000000
+      internalID: 1633443176895943631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitela_4
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 281
+        width: 10
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa9b3194c5f066640800000000000000
+      internalID: 5072758919316879786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitela_5
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 280
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b656efa6c320b0f0800000000000000
+      internalID: -1103342572444166472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitela_6
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 280
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2db5452b1c8af36f0800000000000000
+      internalID: -702657466972480558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitela_7
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 311
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9e3312419d473b90800000000000000
+      internalID: -7262250587837481313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitela_8
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 281
+        width: 42
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60e57d0468a447820800000000000000
+      internalID: 2915036799289482758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitela_9
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 280
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00b61d8d8ad2aa3c0800000000000000
+      internalID: -4347612287057433856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitela_10
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 280
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bc46ece64919f840800000000000000
+      internalID: 5258261832344685748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitela_11
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 280
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81802d23fc0746aa0800000000000000
+      internalID: -6168681554377570280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitela_12
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 280
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 910ae994933b5b8b0800000000000000
+      internalID: -5137002741316542439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitela_13
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 280
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65ab750157f75fb80800000000000000
+      internalID: -8361636992381371818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitela_14
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 281
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2a2b05ae536950d0800000000000000
+      internalID: -3433603982746244566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitela_15
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 280
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9479de2b7a7fa2200800000000000000
+      internalID: 156209436731217737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitela_16
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 281
+        width: 23
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0fb734ecf6efb330800000000000000
+      internalID: 3728952990321065738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitela_17
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 280
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49dcfeb23d21aae90800000000000000
+      internalID: -7013772771491590764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitela_18
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 310
+        width: 21
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6ca102b8862b8aa0800000000000000
+      internalID: -6157785696955159444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitela_19
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 280
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04da787020ba18b10800000000000000
+      internalID: 1982053336224345408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitela_20
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 280
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 510f3df41cc45a220800000000000000
+      internalID: 2496485961598496789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitela_21
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 0
+        width: 568
+        height: 620
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9ed92a79b0d21f30800000000000000
+      internalID: 4544924469007343263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vitela_22
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 281
+        width: 10
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c5acdc3b7884e820800000000000000
+      internalID: 2946630119090595273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Vitela_0: -779823006413505867
+      Vitela_1: -1698552994264739089
+      Vitela_10: 5258261832344685748
+      Vitela_11: -6168681554377570280
+      Vitela_12: -5137002741316542439
+      Vitela_13: -8361636992381371818
+      Vitela_14: -3433603982746244566
+      Vitela_15: 156209436731217737
+      Vitela_16: 3728952990321065738
+      Vitela_17: -7013772771491590764
+      Vitela_18: -6157785696955159444
+      Vitela_19: 1982053336224345408
+      Vitela_2: 6053792628686642325
+      Vitela_20: 2496485961598496789
+      Vitela_21: 4544924469007343263
+      Vitela_22: 2946630119090595273
+      Vitela_3: 1633443176895943631
+      Vitela_4: 5072758919316879786
+      Vitela_5: -1103342572444166472
+      Vitela_6: -702657466972480558
+      Vitela_7: -7262250587837481313
+      Vitela_8: 2915036799289482758
+      Vitela_9: -4347612287057433856
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

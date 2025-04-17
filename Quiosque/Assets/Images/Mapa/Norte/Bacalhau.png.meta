@@ -1,0 +1,546 @@
+fileFormatVersion: 2
+guid: c988140ff6af4224e84b6242f7b604f1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8337399643843969950
+    second: Bacalhau_0
+  - first:
+      213: 2541633828375151738
+    second: Bacalhau_1
+  - first:
+      213: -3930656246036230389
+    second: Bacalhau_2
+  - first:
+      213: -214231047042193259
+    second: Bacalhau_3
+  - first:
+      213: 6771654719242374025
+    second: Bacalhau_4
+  - first:
+      213: 3094641399978526027
+    second: Bacalhau_5
+  - first:
+      213: -2380585913217532413
+    second: Bacalhau_6
+  - first:
+      213: -1961268789500147041
+    second: Bacalhau_7
+  - first:
+      213: -9006041142328471638
+    second: Bacalhau_8
+  - first:
+      213: 334489600918311703
+    second: Bacalhau_9
+  - first:
+      213: -4753701851827563160
+    second: Bacalhau_10
+  - first:
+      213: 6548935734019830105
+    second: Bacalhau_11
+  - first:
+      213: -8521429492866704893
+    second: Bacalhau_12
+  - first:
+      213: -4592817484344510251
+    second: Bacalhau_13
+  - first:
+      213: -1935667467556754780
+    second: Bacalhau_14
+  - first:
+      213: -5458858019084894499
+    second: Bacalhau_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Bacalhau_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 172
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26c3636823b9b4c80800000000000000
+      internalID: -8337399643843969950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bacalhau_1
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 171
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a74ca613082b54320800000000000000
+      internalID: 2541633828375151738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bacalhau_2
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 171
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0f07d048f08379c0800000000000000
+      internalID: -3930656246036230389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bacalhau_3
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 171
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 598a03d6ff5e60df0800000000000000
+      internalID: -214231047042193259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bacalhau_4
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 172
+        width: 10
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98b0a02e610c9fd50800000000000000
+      internalID: 6771654719242374025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bacalhau_5
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 172
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4500f805ff52fa20800000000000000
+      internalID: 3094641399978526027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bacalhau_6
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 171
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30ebe5d89b576fed0800000000000000
+      internalID: -2380585913217532413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bacalhau_7
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 171
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9a88cc5d6c28c4e0800000000000000
+      internalID: -1961268789500147041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bacalhau_8
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 202
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaf45fe0c4d140380800000000000000
+      internalID: -9006041142328471638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bacalhau_9
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 172
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7135cc3158854a400800000000000000
+      internalID: 334489600918311703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bacalhau_10
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 172
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86593b91a55770eb0800000000000000
+      internalID: -4753701851827563160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bacalhau_11
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 171
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9513d133a5e72ea50800000000000000
+      internalID: 6548935734019830105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bacalhau_12
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 161
+        width: 32
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30a9423560dcdb980800000000000000
+      internalID: -8521429492866704893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bacalhau_13
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 171
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d8317fe4d80340c0800000000000000
+      internalID: -4592817484344510251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bacalhau_14
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 658
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aaeff0a1b02325e0800000000000000
+      internalID: -1935667467556754780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bacalhau_15
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 171
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddef62dcd8d3e34b0800000000000000
+      internalID: -5458858019084894499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Bacalhau_0: -8337399643843969950
+      Bacalhau_1: 2541633828375151738
+      Bacalhau_10: -4753701851827563160
+      Bacalhau_11: 6548935734019830105
+      Bacalhau_12: -8521429492866704893
+      Bacalhau_13: -4592817484344510251
+      Bacalhau_14: -1935667467556754780
+      Bacalhau_15: -5458858019084894499
+      Bacalhau_2: -3930656246036230389
+      Bacalhau_3: -214231047042193259
+      Bacalhau_4: 6771654719242374025
+      Bacalhau_5: 3094641399978526027
+      Bacalhau_6: -2380585913217532413
+      Bacalhau_7: -1961268789500147041
+      Bacalhau_8: -9006041142328471638
+      Bacalhau_9: 334489600918311703
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

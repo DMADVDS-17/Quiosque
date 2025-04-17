@@ -29,6 +29,24 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/CarnedePorco.unity
     guid: bf473bc2fbc8fdd42a97eebda1e130b4
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: cd5c3e3d80d2b61409203367cf1fdd50
+  - enabled: 1
+    path: Assets/Scenes/PasteldeNata.unity
+    guid: 783df5c9db6d527458058fed315024f2
+  - enabled: 1
+    path: Assets/Scenes/CataplanadeMarisco.unity
+    guid: 09a80db0eebb2bd439ed21a47342d0bd
+  - enabled: 1
+    path: Assets/Scenes/CaldoVerde.unity
+    guid: 0ee1e8bf307790b47b70dff0339abc3a
+  - enabled: 1
+    path: Assets/Scenes/Francesinha.unity
+    guid: bbe90509c8fd20b4e825ec06dafad299
+  - enabled: 1
+    path: Assets/Scenes/Chanfana.unity
+    guid: 4386fe9b46ac2e84bb0b825b528a5460
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0
